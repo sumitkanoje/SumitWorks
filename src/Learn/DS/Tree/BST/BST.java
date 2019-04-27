@@ -1,5 +1,4 @@
-package com.learn.ds;
-
+package Learn.DS.Tree.BST;
 
 
 public class BST {
