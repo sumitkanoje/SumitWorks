@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "2"
+mappingDefinitions:
+  SAMPLE:
+    database: SAMPLE_DB
+    schema: SANDBOX
+  WORK:
+    database: WORK_DB
+    schema: SANDBOX
+name: SANDBOX-ENV
+type: Environment
